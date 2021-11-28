@@ -1,4 +1,4 @@
-Sentiment Analysis with Amazon Reviews Dataset.
+**Sentiment Analysis with Amazon Reviews Dataset.** <<br>>
 I'm keeping my documents/source codes related to this project.
 
 Project summary:

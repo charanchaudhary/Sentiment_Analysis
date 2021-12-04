@@ -2,7 +2,8 @@
 I'm keeping my documents/source codes related to this project.<br>
 
 **Project summary:**<br>
-
+The study of public opinion can provide us with valuable information. The analysis of sentiment on social networks, such as Twitter or Facebook, has become a powerful means of learning about the users' opinions and has a wide range of applications. Sentiment analysis is the task of classifying the polarity of a given text. For instance, a text can be categorized into either "positive", "negative", or "neutral". Given the text and accompanying labels, a model can be trained to predict the correct sentiment.<br>
+The efficiency and accuracy of sentiment analysis is being hindered by the challenges encountered in natural language processing (NLP).<br>
 
 **Our task in this project is the following:**<br>
 
@@ -12,7 +13,11 @@ Decide whether people like or dislike the product they bought. Label each review
 
 **Techniques Employed**<br>
 In order to get a deeper understanding of people’s opinion about different types of products, you will employ various NLP techniques. Here is a short list about what we will do and what techniques we will use.<br>
-
+We will be doing the following methods:<br>
+1. Multinomial Logistic Regression<br>
+2. Naive Bayes<br>
+3. LSTM
+4. BERT
 
 
 Project Outline<br>

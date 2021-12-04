@@ -1,0 +1,13 @@
+Charan : 
+1) Project selection
+2) Data cleaning 
+3) Implementation of BERT
+4) Implementation of Logistic Regression
+5) Deployment of flask and developed result page
+
+Praneeth: 
+1) Project selection
+2) Data cleaning 
+3) Implementation of LSTM
+4) Implementaion of MultinomialNB
+5) Deployment of flask and developed home and app.py

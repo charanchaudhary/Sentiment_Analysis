@@ -33,3 +33,6 @@ Both the steps and the techniques in this project model a real-life scenario.<br
 
 **Dataset**<br>
 The Amazon review dataset can be downloaded from here. Download the zipped json file of the category of video games 5 core, which can be found under the title Small subsets for experimentation. Once the download is complete, extract the file.
+
+**Running Project**<br>
+Please download .ipynb files for running the Project. 
